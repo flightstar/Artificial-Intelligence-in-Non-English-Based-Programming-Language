@@ -162,7 +162,7 @@ Non-English-based programming languages are computer programming languages that,
 
 ![JAVA](https://sophosnews.files.wordpress.com/2009/09/java-icon-thumb.jpg?w=250)   ![C#](https://wikiprogramming.org/wp-content/uploads/2015/05/CSharp-logo.png)   ![PYTHON](https://cacm.acm.org/system/assets/0002/7780/062217_Python-logo.large.jpg?1498155291&1498155290)    ![JAVASCRIPT](http://cdn-metalogo.pearltrees.com/01/94/019484c89e1f7183ac93cdb0b3611928-pearlsquare.jpg?v=2)
 
-## Tools & Library for parser:
+## Tools & Library for parsing:
 
 **JAVA**:
 
