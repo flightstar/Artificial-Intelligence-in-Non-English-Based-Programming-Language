@@ -2,6 +2,14 @@
 
 Non-English-based programming languages are computer programming languages that, unlike better-known programming languages, do not use keywords taken from, or inspired by, the English vocabulary.
 
+**Chinese Programming Language**
+
+**Programming Language in Hindi**
+
+**Hebrew Programming Language**
+
+**Arabic Programming Language**
+
 **Sanskrit programming language** - It's used in natural language processing and artificial intelligence at NASA. NASA is researching on making 7th gen and 8th gen processors using Sanskrit as their main programming language for performance. [Sanskrit & Artificial Intelligence — NASA Knowledge Representation in Sanskrit and Artificial Intelligence](http://vedicsciences.net/articles/sanskrit-nasa.html)
 
 **Aheui; 아희** – An esoteric programming language similar to Befunge but using Hangul (Korean)
