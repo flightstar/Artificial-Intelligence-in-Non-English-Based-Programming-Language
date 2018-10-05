@@ -165,12 +165,32 @@ Non-English-based programming languages are computer programming languages that,
 ## Tools & Library for parsing:
 
 **JAVA**:
++ Parser Generator:
+  + Regular (Lexer):
+  + Context Free:
+  + PEG:
++ Parser Combinators:
 
 **C#**:
++ Parser Generator:
+  + Regular (Lexer):
+  + Context Free:
+  + PEG:
++ Parser Combinators:
 
 **PYTHON**:
++ Parser Generator:
+  + Regular (Lexer):
+  + Context Free:
+  + PEG:
++ Parser Combinators:
 
 **JAVASCRIPT**:
++ Parser Generator:
+  + Regular (Lexer):
+  + Context Free:
+  + PEG:
++ Parser Combinators:
 
 
 
