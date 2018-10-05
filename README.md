@@ -168,28 +168,28 @@ Non-English-based programming languages are computer programming languages that,
 + Parser Generator:
   + Regular (Lexer):
   + Context Free:
-  + PEG:
+  + PEG (parsing expression grammar):
 + Parser Combinators:
 
 **C#**:
 + Parser Generator:
   + Regular (Lexer):
   + Context Free:
-  + PEG:
+  + PEG (parsing expression grammar):
 + Parser Combinators:
 
 **PYTHON**:
 + Parser Generator:
   + Regular (Lexer):
   + Context Free:
-  + PEG:
+  + PEG (parsing expression grammar):
 + Parser Combinators:
 
 **JAVASCRIPT**:
 + Parser Generator:
   + Regular (Lexer):
   + Context Free:
-  + PEG:
+  + PEG (parsing expression grammar):
 + Parser Combinators:
 
 
